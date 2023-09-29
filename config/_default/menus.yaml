@@ -1,0 +1,5 @@
+leftnav:
+- identifier: dd046e5e-87a4-6d97-2dca-40ee4e14220b
+  name: CITE Reports
+  pageRef: /pages/cite-reports
+  weight: 10
